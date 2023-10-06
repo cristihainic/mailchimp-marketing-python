@@ -12,7 +12,7 @@
 from __future__ import absolute_import
 
 import datetime
-import requests
+import http_requests as requests
 import json
 
 # python 2 and python 3 compatibility library
